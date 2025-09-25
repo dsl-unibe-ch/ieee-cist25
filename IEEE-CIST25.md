@@ -1,6 +1,5 @@
-# Parzivals ODD‑Âventiuren
+# Leveraging Code-Sharing Platforms for Textual Digitization
 
-Die Suche nach dem ewig wartbaren Gral
 
 <style>
   .slide { background: url(img/dsl0.png) center; background-size: cover }
@@ -10,9 +9,9 @@ Die Suche nach dem ewig wartbaren Gral
 
 ---
 
-[https://dsl-unibe-ch.github.io/parzival-proto4digEd](https://dsl-unibe-ch.github.io/parzival-proto4digEd)
+[https://dsl-unibe-ch.github.io/ieee-cist25](https://dsl-unibe-ch.github.io/ieee-cist25)
 
-![qr-code](img/qr.png)
+![qr-code](img/qr.png) <!-- change qr code!>
 
 ---
 
